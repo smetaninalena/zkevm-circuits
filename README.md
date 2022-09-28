@@ -1,4 +1,4 @@
-# Circuits for zkEVM
+
 
 [![CI checks](https://github.com/privacy-scaling-explorations/zkevm-circuits/actions/workflows/ci.yml/badge.svg)](https://github.com/privacy-scaling-explorations/zkevm-circuits/actions/workflows/ci.yml)
 
